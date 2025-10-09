@@ -1,0 +1,59 @@
+SYSTEM TWEAKS		
+Customize System Features		System Debloat Tools			Optional Features 
+- Dark Theme				- ONLY REMOVE.old IF save data		- Hyper-V
+- Activity History			- Remove Xbox				- Internet Explorer
+- Background Apps								- PrintToPDF
+- Clipboard History			Install System Apps			- WMP
+- Clipboard Sync			- Dolby					- Windows Sandbox
+- Cortana				- Paint + Paint3D
+- Legacy Context Menu			- Sound Rec.				Services
+- Old Volume				- WMP (UWP)					- Windows Search Indexing
+- Photo Viewer									
+										Capabilities
+										- PowerShell ISE
+
+										Misc. Features
+										- Encrypted DNS
+										- GOD Mode
+										- Mouse Accel.
+										- Natural Scroll
+										- Take Ownership
+
+
+
+SOFTWARE INSTALL
+CPU/GPU Drivers				Web Browsers			Communication			Text Editors/IDEs
+- NVIDIA GeForce Experience		- Brave				- Discord			- Visual Studio 2022 Community
+					- Google Chrome							- VS Code
+App Reqs				- Firefox							
+- DirectX End-User Runtime										WSL
+- Microsoft .NET Framework		Audio/Video Tools						- Ubuntu
+- MSVC Redist 2005-2022 (x64)		- Audacity
+- MSVC Redist2005-2022 (x86)		- VLC								Development On Windows
+													- Windows Terminal
+File Compress				Image Tools							- Install Nerd Fonts 
+- 7-Zip					- GIMP								- Git + GnuPG + SSH (Setup)
+- WinZip				- Inkscape							- Docker Desktop
+													- NodeJS
+Document Editors/Readers		Planning/Productivity						- Python 3
+- Adobe Reader DC (x64)			- Notion							- Ruby
+- PDFCreator (PDF Converter)										- Ruby (MSYS2)
+- Sumatra PDF				Utilities							- Rust (GNU)
+					- CPU-Z								- Rust (MSVC)
+Acaademic Research			- Crystal Disk Info
+- Zotero				- Crystal Disk Mark
+					- GPU-Z
+Torrent					- HWiNFO
+- qBittorrent
+					Network Management
+Bootable USB				- Wireshark
+- Etcher
+- Rufus
+
+Cloud Storage
+- [Dropbox]
+
+UI Customization
+- RoundedTB
+
+

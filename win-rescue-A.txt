@@ -1,0 +1,9 @@
+- Allow Edge/MS access -> DL Dropbox
+- Localize Utilities/Vault/v.Import -> When utilities synced, Run winDebloat
+- see win-rescue-B
+- Adjust taskbar
+- Set Theme/Personlize
+- When winDebloat done then sort desktop
+- GitHub Desktop
+- proton vpn Geoffrey.le@proton.me
+- Vivaldi - import from edge - now!
