@@ -1,0 +1,21 @@
+ThinkPad P52
+
+Main
+
+UEFI BIOS Version               N2CET72W (1.55)
+UEFI BIOS Date (Year-Month-Day) 2024-07-24
+Embedded Controller Version     N2CHT26W (1.16)
+ME Firmware Version             12.0.95.2489
+Machine Type Model              20MAS25B1K
+System-unit serial number       PF13FYY8
+System board serial number      L1HF99B0130
+Asset Tag                       NL-L-7283752
+CPU Type                        Intel(R) Core(TM) i7-8850H CPU
+CPU Speed                       2.600GHz
+Installed memory                65536MB
+UUID                            7517aa4c-338b-11b2-a85c-841ea12a7cab
+MAC Address (Internal LAN)      98 FA 9B C6 7D F9
+Preinstalled OS License         SDK0J40697 WIN
+UEFI Secure Boot                Off
+OA3 ID                          3305229864824
+OA2                             Yes
